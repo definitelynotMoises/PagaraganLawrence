@@ -246,3 +246,9 @@ span{
         font-size: 16px;
         color: white;
     }
+::-webkit-scrollbar{
+    width: 15px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: var(--main-color);
+}
